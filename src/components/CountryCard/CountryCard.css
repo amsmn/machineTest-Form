@@ -1,0 +1,72 @@
+.country-card {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #3e3e3e;
+    box-shadow: 8px 8px 0px #0000001a;
+    height: 130px;
+    position: relative;
+    width: 47%;
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .image {
+    background-image: url(../../assets/img/placement-area-asset-small-size-default-state-default.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 96px;
+    left: 16px;
+    position: absolute;
+    top: 15px;
+    width: 127px;
+  }
+  
+  img {
+    width: 127px;
+    height: 96px;
+    flex-shrink: 0;
+  }
+  
+  .typography {
+    color: #3d3d3d;
+    font-family: 'Noto Sans', Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 170px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+    width: 273px;
+  }
+  
+  .typography-TAGUI {
+    color: #6f6f6f;
+    font-family: 'Noto Sans', Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 170px;
+    letter-spacing: 0.48px;
+    line-height: 19px;
+    position: absolute;
+    top: 58px;
+    white-space: nowrap;
+    width: 60px;
+  }
+
+  
+  @media (max-width: 970px) {
+    .country-card {
+        background-color: #ffffff;
+        border: 2px solid;
+        border-color: #3e3e3e;
+        box-shadow: 8px 8px 0px #0000001a;
+        height: 130px;
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+        position: relative;
+      }
+  }
+  

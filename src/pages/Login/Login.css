@@ -1,0 +1,423 @@
+.sign-in-desktop {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+
+}
+.overlap-wrapper {
+    background-color: #fff;
+  display: flex;
+  width: 80%;
+  padding: 50px 0px;
+}
+.card {
+    background-color: #ffffff;
+    height: fit-content;
+    display: flex;
+    width: 100%;
+}
+.heading-card{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.user-Tags{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.create-an-account {
+    color: #587fff;
+    font-family: "Noto Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+}
+.new-user-TAG {
+    color: #3d3d3d;
+    font-family: "Noto Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    padding-right: 10px;
+}
+.title-TAG {
+    color: #3d3d3d;
+    font-family: "Noto Sans", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.illustration {
+    position: relative;
+    height: 510px;
+    width: 300px;
+  }
+  
+  .sign-in-desktop .overlap-group {
+    height: 412px;
+    left: 0;
+    position: absolute;
+    top: 98px;
+    width: 195px;
+  }
+  
+  .sign-in-desktop .path-FILL {
+    height: 63px;
+    left: 47px;
+    position: absolute;
+    top: 0;
+    width: 87px;
+  }
+  
+  .sign-in-desktop .path-FILL-style {
+    height: 30px;
+    left: 144px;
+    position: absolute;
+    top: 346px;
+    width: 26px;
+  }
+  
+  .sign-in-desktop .img {
+    height: 148px;
+    left: 80px;
+    position: absolute;
+    top: 222px;
+    width: 84px;
+  }
+  
+  .sign-in-desktop .path-FILL-2 {
+    height: 27px;
+    left: 28px;
+    position: absolute;
+    top: 339px;
+    width: 27px;
+  }
+  
+  .sign-in-desktop .path-FILL-3 {
+    height: 39px;
+    left: 0;
+    position: absolute;
+    top: 132px;
+    width: 92px;
+  }
+  
+  .sign-in-desktop .path-FILL-4 {
+    height: 82px;
+    left: 62px;
+    position: absolute;
+    top: 64px;
+    width: 32px;
+  }
+  
+  .sign-in-desktop .path-FILL-5 {
+    height: 79px;
+    left: 152px;
+    position: absolute;
+    top: 117px;
+    width: 43px;
+  }
+  
+  .sign-in-desktop .path-FILL-6 {
+    height: 35px;
+    left: 69px;
+    position: absolute;
+    top: 33px;
+    width: 29px;
+  }
+  
+  .sign-in-desktop .path-FILL-7 {
+    height: 105px;
+    left: 69px;
+    position: absolute;
+    top: 50px;
+    width: 67px;
+  }
+  
+  .sign-in-desktop .path-FILL-8 {
+    height: 73px;
+    left: 108px;
+    position: absolute;
+    top: 52px;
+    width: 63px;
+  }
+  
+  .sign-in-desktop .path-FILL-9 {
+    height: 216px;
+    left: 27px;
+    position: absolute;
+    top: 136px;
+    width: 121px;
+  }
+  
+  .sign-in-desktop .path-FILL-10 {
+    height: 35px;
+    left: 1px;
+    position: absolute;
+    top: 354px;
+    width: 52px;
+  }
+  
+  .sign-in-desktop .path-FILL-11 {
+    height: 53px;
+    left: 143px;
+    position: absolute;
+    top: 359px;
+    width: 41px;
+  }
+  
+  .sign-in-desktop .path-FILL-12 {
+    height: 50px;
+    left: 55px;
+    position: absolute;
+    top: 6px;
+    width: 64px;
+  }
+  
+  .sign-in-desktop .path-FILL-13 {
+    height: 63px;
+    left: 204px;
+    position: absolute;
+    top: 18px;
+    width: 88px;
+  }
+
+  .overlap-group-wrapper {
+    width: 282px;
+  }
+  .input-wrapper{
+    padding-bottom: 20px;
+  }
+  .overlap-2 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #3e3e3e;
+    color: #3e3e3e;
+    font-family: "Noto Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    height: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    padding: 0;
+    padding-left: 14px;
+    position: relative;
+    width: 280px;
+  }
+  .checkbox {
+    display: flex;
+    padding-bottom: 20px;
+  }
+  
+  .area-DISPLAY {
+    background-color: #f2f2f2;
+    border: 2px solid;
+    border-color: #000000;
+    height: 32px;
+    width: 32px;
+  }
+  
+  .check-DISPLAY {
+    height: 6px;
+    width: 12px;
+  }
+  
+  .text-wrapper {
+    color: #3d3d3d;
+    font-family: "Noto Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 6px;
+    position: relative;
+  }
+
+  .button {
+    all: unset;
+    box-sizing: border-box;
+    padding-bottom: 50px;
+  }
+  
+  .label-wrapper {
+    background-color: #3c3c3c;
+    height: 48px;
+    position: relative;
+    width: 300px;
+  }
+  
+  .label {
+    -webkit-text-stroke: 1px #000000;
+    color: #fcfcfc;
+    font-family: "Noto Sans", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 115px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 13px;
+  }
+  .sign-in-with {
+    display: flex;
+    height: 19px;
+    width: 274px;
+    padding-bottom: 30px;
+  }
+  
+  .line {
+    height: 2px;
+    width: 72px;
+  }
+  
+  .typography-TAG-UI-s {
+    -webkit-text-stroke: 2px #1968ff;
+    color: #3d3d3d;
+    font-family: "Noto Sans", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.39px;
+    line-height: 19px;
+    text-align: center;
+    white-space: nowrap;
+    position: relative;
+    top: -8px;
+  }
+  
+  .line-2 {
+    height: 2px;
+    width: 72px;
+  }
+  .social-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .circle-button {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #3e3e3e;
+    border-radius: 1000px;
+    height: 48px;
+    width: 48px;
+  }
+  
+  .icon {
+    height: 20px;
+    left: 12px;
+    position: relative;
+    top: 12px;
+    width: 20px;
+  }
+  .icon-5 {
+    height: 18px;
+    left: 5px;
+    position: relative;
+    top: 1px;
+    width: 11px;
+  }
+  .icon-4 {
+    height: 16px;
+    left: 2px;
+    position: relative;
+    top: 2px;
+    width: 17px;
+  }
+  .circle-button-2 {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #3e3e3e;
+    border-radius: 1000px;
+    height: 48px;
+    width: 48px;
+  }
+  
+  .icon-3 {
+    height: 18px;
+    left: 5px;
+    position: absolute;
+    top: 1px;
+    width: 11px;
+  }
+  
+  .div-wrapper {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #3e3e3e;
+    border-radius: 1000px;
+    height: 48px;
+    width: 48px;
+  }
+  
+  .div {
+    background-color: #737373;
+    border-radius: 19.73px;
+    height: 39px;
+    left: 56px;
+    position: absolute;
+    top: 8px;
+    width: 39px;
+  }
+  
+  .path {
+    height: 12px;
+    left: 6px;
+    position: absolute;
+    top: 4px;
+    width: 12px;
+  }
+  
+  .rect {
+    border: 1.67px solid;
+    border-color: #3e3e3e;
+    height: 12px;
+    left: -1px;
+    position: absolute;
+    top: 5px;
+    width: 5px;
+  }
+  
+  .path-2 {
+    border: 1.67px solid;
+    border-color: #3e3e3e;
+    border-radius: 2.5px;
+    height: 5px;
+    left: -1px;
+    position: absolute;
+    top: -1px;
+    width: 5px;
+  }
+  
+  .icon-wrapper {
+    background-color: #ffffff;
+    border: 2px solid;
+    border-color: #3e3e3e;
+    border-radius: 1000px;
+    height: 48px;
+    width: 48px;
+  }
+  
+  .icon-2 {
+    height: 22px;
+    left: -1px;
+    position: absolute;
+    top: -1px;
+    width: 22px;
+  }
+
+  @media  (max-width: 769px)  {
+    .illustration{
+        display: none;
+    }
+    .title-TAG {
+        color: #3d3d3d;
+        font-family: "Noto Sans", Helvetica;
+        font-size: 32px;
+        font-weight: 700;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+    }
+  }
